@@ -10,7 +10,7 @@
 <p align="left">
 🎓 INGENIERO EN SISTEMAS/INFORMÁTICA
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio  y experiencia 💻 
+🎥 Pequeño programador y desarrollador aprendiendo de los lenguajes de programación 📚 a través de las redes en base a mucho estudio  y experiencia 💻 
 📝 roles en el ámbito: desarrollador y programador freelance
 
 📫 Contacto: **Alexander08S.C@hotmail.com**
